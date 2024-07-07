@@ -1,23 +1,36 @@
----
-title: "Teaching Assistant"
+ ---
+title: "Head & Teaching Assistant"
 collection: teaching
 type: "University"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sharif University of Technology"
 date: 2021-05-05
 location: "Tehran, Iran"
-professor: "Professor Shohreh Kasaei"
-professor_url: "http://professorhomepage.com](https://sharif.edu/~kasaei/"
 ---
 
 
-Heading 1
-======
+# Teaching Experience
 
-Heading 2
-======
+**Sharif University of Technology, Tehran, Iran**  
+*Head & Teaching Assistant (2021-Present)*
 
-Heading 3
-======
+- **Advanced 3D Computer Vision**  
+  Presented by [Dr. Shohreh Kasaei](http://professorhomepage.com)
 
-I was a teaching assistant for Professor [Professor Shohreh Kasaei](http://professorhomepage.com](https://sharif.edu/~kasaei/).
+- **Deep Learning**  
+  Presented by [Dr. Hamid Beigy](http://professorhomepage.com)
+
+- **Machine Learning Theory**  
+  Presented by [Dr. Hamid Beigy](http://professorhomepage.com)
+
+- **Machine Learning**  
+  Presented by [Dr. Hamid Beigy](http://professorhomepage.com)
+
+- **Machine Learning**  
+  Head, Presented by [Dr. Hossein Peyvandi](http://professorhomepage.com)
+
+- **Artificial Intelligence**  
+  Presented by [Dr. Mohammad Hossein Rohban](http://professorhomepage.com)
+
+- **Scientific and Technical Presentation**  
+  Presented by [Dr. Shohreh Kasaei](http://professorhomepage.com)
