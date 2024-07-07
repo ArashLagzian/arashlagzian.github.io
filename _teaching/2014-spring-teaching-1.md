@@ -4,7 +4,7 @@ collection: teaching
 type: "High School"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Science and Technology High School"
-date: 
+date: 2018-05-05
 location: "Neyshabour, Iran"
 ---
 
