@@ -1,4 +1,4 @@
-
+---
 title: "Electrical Teacher"
 collection: teaching
 type: "High School"
