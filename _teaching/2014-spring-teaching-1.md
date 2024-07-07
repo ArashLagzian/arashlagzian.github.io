@@ -1,11 +1,11 @@
-<!---
-title: "Teaching experience 1"
+
+title: "Electrical Teacher"
 collection: teaching
-type: "Undergraduate course"
+type: "High School"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Science and Technology High School"
+date: 2018-2020
+location: "Neyshabour, Iran"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
