@@ -7,12 +7,3 @@ venue: "Science and Technology High School"
 date: 2018-05-05
 location: "Neyshabour, Iran"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
